@@ -130,6 +130,6 @@ AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
 ]
 
-SOCIAL_AUTH_TWITTER_KEY = 'jqSaCggBjhMqNTDUDZp6xIHY7' #Consumer Key (API Key)
-SOCIAL_AUTH_TWITTER_SECRET = 'M7BVHGheXuDkIyn9n5NPX9XiP0A9v6a7wlPrDQlUp2vXQVgjSV' #Consumer Secret (API Secret)
+SOCIAL_AUTH_TWITTER_KEY = 'xxxxxxxxxxxxxxxxxxx' #Consumer Key (API Key)
+SOCIAL_AUTH_TWITTER_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' #Consumer Secret (API Secret)
 SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/user/top' #リダイレクトURL
